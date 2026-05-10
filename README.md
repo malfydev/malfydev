@@ -34,7 +34,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ### DevOps & Tools
