@@ -17,9 +17,7 @@
 - Full Stack Developer
 - Building applications with Spring Boot, Java, React, Next.js, and TypeScript
 - Working with REST APIs, JWT authentication, SQL/NoSQL databases, Docker, and CI/CD
-- Interested in scalable backend architecture and clean system design
-- Experienced with Git workflows, API documentation using Swagger/OpenAPI, and collaborative development
-
+- 
 ---
 
 ## 🛠 Tech Stack
